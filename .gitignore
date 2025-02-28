@@ -1,0 +1,26 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# PyCharm
+.idea/
+*.iml
+
+# Misc
+*.swp
+.DS_Store  # macOS
